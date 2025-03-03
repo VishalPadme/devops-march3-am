@@ -1,0 +1,6 @@
+projectKey=com.echios:calculator
+serverUrl=https://super-duper-barnacle-4wwj5jq9qqj2q6vr-9000.app.github.dev
+serverVersion=25.2.0.102705
+dashboardUrl=https://super-duper-barnacle-4wwj5jq9qqj2q6vr-9000.app.github.dev/dashboard?id=com.echios%3Acalculator
+ceTaskId=f20dcec5-4d6c-4821-b233-f43749d412f6
+ceTaskUrl=https://super-duper-barnacle-4wwj5jq9qqj2q6vr-9000.app.github.dev/api/ce/task?id=f20dcec5-4d6c-4821-b233-f43749d412f6
